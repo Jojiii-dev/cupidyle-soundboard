@@ -1,0 +1,72 @@
+{
+  "groups": [
+    {
+      "group_name": "quotes",
+      "group_description": "Quotes📝",
+      "voice_list": [
+        {
+          "path": "quotes/eat_my_shorts.opus",
+          "description": "Eat my shorts",
+          "updated_at": 1765688561
+        },
+        {
+          "path": "quotes/good_girl.opus",
+          "description": "Good girl",
+          "updated_at": 1765688582
+        },
+        {
+          "path": "quotes/not_to_my_princess_you_wont.opus",
+          "description": "Not to my princess you won't",
+          "updated_at": 1765688586
+        }
+      ]
+    },
+    {
+      "group_name": "screams",
+      "group_description": "🗣️📢",
+      "voice_list": [
+        {
+          "path": "screams/noooo.opus",
+          "description": "NOOOOOOOOOOOO",
+          "updated_at": 1765688625
+        },
+        {
+          "path": "screams/how_dare_you.opus",
+          "description": "HOW DARE YOUUUUU HOW DARE YOU",
+          "updated_at": 1765688625
+        },
+        {
+          "path": "screams/whyyy.opus",
+          "description": "WHYYYYYY",
+          "updated_at": 1765688625
+        },
+        {
+          "path": "screams/despair.opus",
+          "description": "NOOOOO NO NO THERE'S NO WAY",
+          "updated_at": 1765688625
+        },
+        {
+          "path": "screams/fuuuck.opus",
+          "description": "FUUUUU",
+          "updated_at": 1765688625
+        },
+        {
+          "path": "screams/my_family_crest_is_a_demon_of_death.opus",
+          "description": "My family crest is a demon of death",
+          "updated_at": 1765688625
+        }
+      ]
+    },
+    {
+      "group_name": "friends",
+      "group_description": "friends 👩‍👩‍👧‍👧",
+      "voice_list": [
+        {
+          "path": "friends/vedalll.opus",
+          "description": "VEDALLLL",
+          "updated_at": 1765688402
+        }
+      ]
+    }
+  ]
+}

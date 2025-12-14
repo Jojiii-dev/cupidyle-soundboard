@@ -1,0 +1,33 @@
+{
+  "title": "cupidyle 💛🐊 soundboard",
+  "description": "cute croc sounds",
+  "keywords": "VTuber VoiceButton cupidyle Soundboard Silly",
+  "url": "https://cupidyle.vercel.app",
+  "twitter_user": "@Jojiii_dev",
+  "theme_color": "#b7e0f8",
+  "footer": {
+    "authors": [
+      {
+        "name": "Jojiii",
+        "link": "https://x.com/Jojiii_dev"
+      }
+    ],
+    "repo_link": "https://github.com/Jojiii-dev/cupidyle-soundboard",
+    "content": "This site is just a fan made one for fun. Not officailly associated with {0}. For more info please check {1} & {2}",
+    "content_params": [
+      {
+        "name": "cupidyle"
+      },
+      {
+        "name": "About",
+        "link": "/about",
+        "target": ""
+      },
+      {
+        "name": "Source Code",
+        "link": "https://github.com/Jojiii-dev/cupidyle-soundboard",
+        "target": "_blank"
+      }
+    ]
+  }
+}
