@@ -98,6 +98,11 @@
           "path": "quotes/goonbrain.opus",
           "description": "(GOONBRAIN) I'm gooningggg",
           "updated_at": 1765706036
+        },
+        {
+          "path": "quotes/couldnt_stop_thinking_about_yall.opus",
+          "description": "whatever, I'll just say it out right... I couldn't stop thinking about y'all, ok?",
+          "updated_at": 1765707202
         }
       ]
     },
@@ -165,6 +170,21 @@
           "path": "noises/stutter.ogg",
           "description": "(cupid stuttering)",
           "updated_at": 1765705109
+        },
+        {
+          "path": "noises/laugh.opus",
+          "description": "(cupid laugh)",
+          "updated_at": 1765707139
+        },
+        {
+          "path": "noises/9s_giggles.opus",
+          "description": "(9 seconds of cupid giggles)",
+          "updated_at": 1765705109
+        },
+        {
+          "path": "noises/im_gonna_murder_you.opus",
+          "description": "(alien noises?) I'm gonna murder you",
+          "updated_at": 1765707171
         }
       ]
     },
