@@ -8,7 +8,9 @@
         <ul class="list-disc pl-6">
           <p>
             Thanks for visiting my little soundboard site. I hope you enjoyed
-            it. None of the sounds are AI and they are all from cupidyle
+            it. If you have any suggestions or want to contribute feel free to
+            message me on discord. None of the sounds are AI and they are all
+            from cupidyle
           </p>
           <li>
             Created by:
