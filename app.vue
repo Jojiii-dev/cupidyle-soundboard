@@ -5,8 +5,9 @@
         <VAppBarNavIcon @click="isDrawerOpen = !isDrawerOpen" />
       </template>
       <VAppBarTitle>
-        <div class="flex items-center">
+        <div class="flex items-center justify-between w-full">
           <NuxtLink class="font-bold" to="/">cupidyle 💛🐊 soundboard</NuxtLink>
+          <img src="/images/fugi_talk.gif" class="max-h-16 pr-10" />
         </div>
       </VAppBarTitle>
     </VAppBar>
@@ -93,6 +94,10 @@
               </div>
               <div v-html="parseContent(site.footer.content)" />
             </div>
+            <img
+              src="/images/smol.png"
+              class="max-h-10 ml-auto mr-20 align-self-end"
+            />
           </VFooter>
         </div>
       </div>
