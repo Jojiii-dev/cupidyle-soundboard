@@ -7,7 +7,11 @@
       <VAppBarTitle>
         <div class="flex items-center justify-between w-full">
           <NuxtLink class="font-bold" to="/">cupidyle 💛🐊 soundboard</NuxtLink>
-          <img src="/images/fugi_talk.gif" class="max-h-16 pr-10" />
+          <img
+            @click="goonbrain()"
+            src="/images/fugi_talk.gif"
+            class="max-h-16 pr-10 cursor-pointer brightness-100 hover:brightness-75 transition-all duration-300"
+          />
         </div>
       </VAppBarTitle>
     </VAppBar>
@@ -95,8 +99,9 @@
               <div v-html="parseContent(site.footer.content)" />
             </div>
             <img
+              @click="reze()"
               src="/images/smol.png"
-              class="max-h-10 ml-auto mr-20 align-self-end"
+              class="max-h-10 ml-auto mr-20 align-self-end cursor-pointer brightness-100 hover:brightness-75 transition-all duration-300"
             />
           </VFooter>
         </div>
@@ -114,6 +119,14 @@ const page = ref();
 
 function playRandomSound() {
   page.value.pageRef.playRandomSound();
+}
+
+function goonbrain() {
+  window.open('https://www.youtube.com/watch?v=kJG6vG5ksMA', '_blank');
+}
+
+function reze() {
+  window.open('https://www.youtube.com/watch?v=_kLL-zRebm0', '_blank');
 }
 
 const parseContent = (content: string) => {
