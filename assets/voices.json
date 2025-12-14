@@ -18,6 +18,86 @@
           "path": "quotes/not_to_my_princess_you_wont.opus",
           "description": "Not to my princess you won't",
           "updated_at": 1765688586
+        },
+        {
+          "path": "quotes/another_one.ogg",
+          "description": "another one",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/banger.ogg",
+          "description": "banger",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/cinema.ogg",
+          "description": "cinema",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/cupidyle_beam.opus",
+          "description": "CUPIDYLE BEAM",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/destroy_bloodline.ogg",
+          "description": "I will destoy your entire fucking bloodline",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/dont_clip_downbad.ogg",
+          "description": "Don't clip me being downbad",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/give_me_more_money.ogg",
+          "description": "give me more money",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/holymoly.ogg",
+          "description": "holy moly",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/parasocial.ogg",
+          "description": "parasocial",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/roblox.ogg",
+          "description": "roblox",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/scammed.ogg",
+          "description": "you just got scammed",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/smile.ogg",
+          "description": "smile",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/sowwy.ogg",
+          "description": "I sowwy",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/tyvm.ogg",
+          "description": "tyvm",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/violence.ogg",
+          "description": "I'm biting you, I grab you, I choke you...",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "quotes/goonbrain.opus",
+          "description": "(GOONBRAIN) I'm gooningggg",
+          "updated_at": 1765706036
         }
       ]
     },
@@ -54,6 +134,37 @@
           "path": "screams/my_family_crest_is_a_demon_of_death.opus",
           "description": "My family crest is a demon of death",
           "updated_at": 1765688625
+        },
+        {
+          "path": "screams/aaruughh.ogg",
+          "description": "AARUUGHH",
+          "updated_at": 1765688625
+        },
+        {
+          "path": "screams/rahhhhhh.ogg",
+          "description": "RAHHHHHH",
+          "updated_at": 1765688625
+        },
+        {
+          "path": "screams/scream.ogg",
+          "description": "(screams)",
+          "updated_at": 1765688625
+        }
+      ]
+    },
+    {
+      "group_name": "noises",
+      "group_description": "noises🔊",
+      "voice_list": [
+        {
+          "path": "noises/slurp.opus",
+          "description": "(slurping)",
+          "updated_at": 1765705092
+        },
+        {
+          "path": "noises/stutter.ogg",
+          "description": "(cupid stuttering)",
+          "updated_at": 1765705109
         }
       ]
     },
@@ -65,6 +176,16 @@
           "path": "friends/vedalll.opus",
           "description": "VEDALLLL",
           "updated_at": 1765688402
+        },
+        {
+          "path": "friends/akuward.ogg",
+          "description": "akuward",
+          "updated_at": 1765705007
+        },
+        {
+          "path": "friends/jred_do_something.ogg",
+          "description": "jred do something",
+          "updated_at": 1765705007
         }
       ]
     }
