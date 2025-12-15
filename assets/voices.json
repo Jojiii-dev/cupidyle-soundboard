@@ -25,16 +25,6 @@
           "updated_at": 1765705137
         },
         {
-          "path": "quotes/banger.ogg",
-          "description": "banger",
-          "updated_at": 1765705137
-        },
-        {
-          "path": "quotes/cinema.ogg",
-          "description": "cinema",
-          "updated_at": 1765705137
-        },
-        {
           "path": "quotes/cupidyle_beam.opus",
           "description": "CUPIDYLE BEAM",
           "updated_at": 1765705137
@@ -75,11 +65,6 @@
           "updated_at": 1765705137
         },
         {
-          "path": "quotes/smile.ogg",
-          "description": "smile",
-          "updated_at": 1765705137
-        },
-        {
           "path": "quotes/sowwy.opus",
           "description": "I sowwy",
           "updated_at": 1765705137
@@ -103,6 +88,41 @@
           "path": "quotes/couldnt_stop_thinking_about_yall.opus",
           "description": "whatever, I'll just say it out right... I couldn't stop thinking about y'all, ok?",
           "updated_at": 1765707202
+        },
+        {
+          "path": "quotes/do_i_sound_like_bart.opus",
+          "description": "Do I sound like Bart Simpson?",
+          "updated_at": 1765791065
+        },
+        {
+          "path": "quotes/goodnight.opus",
+          "description": "Good night",
+          "updated_at": 1765791065
+        },
+        {
+          "path": "quotes/hi.opus",
+          "description": "Hiii",
+          "updated_at": 1765791065
+        },
+        {
+          "path": "quotes/luvu.opus",
+          "description": "Luv u",
+          "updated_at": 1765791065
+        },
+        {
+          "path": "quotes/more_guns.opus",
+          "description": "We got more guns than the law allows. HELL YEAH",
+          "updated_at": 1765791065
+        },
+        {
+          "path": "quotes/so_kawaii.opus",
+          "description": "So kawaii desu ne~",
+          "updated_at": 1765791065
+        },
+        {
+          "path": "quotes/that_cant_be_a_quote.opus",
+          "description": "That can't be a quote... I dont say that! ... Do I say that?",
+          "updated_at": 1765791065
         }
       ]
     },
@@ -185,6 +205,112 @@
           "path": "noises/im_gonna_murder_you.opus",
           "description": "(alien noises?) I'm gonna murder you",
           "updated_at": 1765707171
+        },
+        {
+          "path": "noises/aww.opus",
+          "description": "aww",
+          "updated_at": 1765791012
+        },
+        {
+          "path": "noises/ayo.opus",
+          "description": "ayo",
+          "updated_at": 1765707171
+        },
+        {
+          "path": "noises/blehh.opus",
+          "description": "blehh",
+          "updated_at": 1765707171
+        }
+      ]
+    },
+    {
+      "group_name": "emotes",
+      "group_description": "emotes🙂",
+      "voice_list": [
+        {
+          "path": "emotes/banger.ogg",
+          "description": "banger",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "emotes/cinema.ogg",
+          "description": "cinema",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "emotes/smile.ogg",
+          "description": "smile",
+          "updated_at": 1765705137
+        },
+        {
+          "path": "emotes/ehehehe.opus",
+          "description": "ehehehe",
+          "updated_at": 1765790763
+        },
+        {
+          "path": "emotes/gigachad.opus",
+          "description": "gigachad",
+          "updated_at": 1765790763
+        },
+        {
+          "path": "emotes/holy.opus",
+          "description": "holy",
+          "updated_at": 1765790763
+        },
+        {
+          "path": "emotes/iuh.opus",
+          "description": "i uh",
+          "updated_at": 1765790763
+        },
+        {
+          "path": "emotes/letsgo.opus",
+          "description": "LETS GOOO",
+          "updated_at": 1765790763
+        },
+        {
+          "path": "emotes/looking.opus",
+          "description": "looking",
+          "updated_at": 1765790763
+        },
+        {
+          "path": "emotes/mhm.opus",
+          "description": "mhm",
+          "updated_at": 1765790763
+        },
+        {
+          "path": "emotes/no.opus",
+          "description": "no",
+          "updated_at": 1765790763
+        },
+        {
+          "path": "emotes/nyaa.opus",
+          "description": "nyaa",
+          "updated_at": 1765790763
+        },
+        {
+          "path": "emotes/o7.opus",
+          "description": "o7",
+          "updated_at": 1765790763
+        },
+        {
+          "path": "emotes/ogie.opus",
+          "description": "ogie",
+          "updated_at": 1765790763
+        },
+        {
+          "path": "emotes/what.opus",
+          "description": "what",
+          "updated_at": 1765790763
+        },
+        {
+          "path": "emotes/xdx.opus",
+          "description": "xdx",
+          "updated_at": 1765790763
+        },
+        {
+          "path": "emotes/yes.opus",
+          "description": "yes",
+          "updated_at": 1765790763
         }
       ]
     },
@@ -205,6 +331,26 @@
         {
           "path": "friends/jred_do_something.ogg",
           "description": "jred do something",
+          "updated_at": 1765705007
+        },
+        {
+          "path": "friends/alex.opus",
+          "description": "Alex",
+          "updated_at": 1765790942
+        },
+        {
+          "path": "friends/bo.opus",
+          "description": "Bo",
+          "updated_at": 1765705007
+        },
+        {
+          "path": "friends/fu_bo.opus",
+          "description": "FU BO",
+          "updated_at": 1765705007
+        },
+        {
+          "path": "friends/scarra.opus",
+          "description": "scarra",
           "updated_at": 1765705007
         }
       ]
