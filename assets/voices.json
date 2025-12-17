@@ -123,6 +123,21 @@
           "path": "quotes/that_cant_be_a_quote.opus",
           "description": "That can't be a quote... I dont say that! ... Do I say that?",
           "updated_at": 1765791065
+        },
+        {
+          "path": "quotes/dont_goon_but_cronk.opus",
+          "description": "I don't goon I cronk",
+          "updated_at": 1765943192
+        },
+        {
+          "path": "quotes/im_a_cronkodile.opus",
+          "description": "I'm a cronkodyle",
+          "updated_at": 1765943192
+        },
+        {
+          "path": "quotes/im_cronking_it.opus",
+          "description": "I'm cronking it",
+          "updated_at": 1765943192
         }
       ]
     },
@@ -311,6 +326,21 @@
           "path": "emotes/yes.opus",
           "description": "yes",
           "updated_at": 1765790763
+        },
+        {
+          "path": "emotes/67.opus",
+          "description": "67",
+          "updated_at": 1765943139
+        },
+        {
+          "path": "emotes/goon.opus",
+          "description": "goon",
+          "updated_at": 1765943143
+        },
+        {
+          "path": "emotes/cronk.opus",
+          "description": "cronk",
+          "updated_at": 1765943143
         }
       ]
     },
